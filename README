@@ -1,0 +1,18 @@
+zeller.js
+
+This file has two functions in it. One extends the String class to have a getDay method that can be used directly from a string that looks like a date.
+
+Example:
+"7/5/2010".getDay() => "Monday"
+
+The other function is the one that calculates the day from the date. It is called zeller(), and for the above example it would be called like this:
+
+zeller(5, 7, 2010) => "Monday"
+
+The zeller function has a number of options, including:
+- Returning an ISO week date-compliant number
+- Using the Gregorian or Julian calendar
+- Declaring an internationalized array of weekday strings
+
+Enjoy!
+-Trevor
