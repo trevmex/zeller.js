@@ -1,4 +1,4 @@
-zeller.js
+zeller.js (located in the /lib directory)
 
 This file has two functions in it. One extends the String class to have a getDay method that can be used directly from a string that looks like a date.
 
