@@ -14,5 +14,14 @@ The zeller function has a number of options, including:
 - Using the Gregorian or Julian calendar
 - Declaring an internationalized array of weekday strings
 
+The JSDoc can be found at jsdoc/index.html.
+The JSpec Tests can be run at spec/dom.html.
+
+Version 1.0.0
+- Initial release.
+
+Version 1.0.1
+- Added JSpec and fixed null parameter bug.
+
 Enjoy!
 -Trevor
